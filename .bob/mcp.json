@@ -1,0 +1,48 @@
+{
+  "mcpServers": {
+    "playwright": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@playwright/mcp@latest",
+        "--browser=chrome",
+        "--viewport-size=1280,800"
+      ],
+      "alwaysAllow": [
+        "browser_select_option",
+        "browser_snapshot",
+        "browser_navigate",
+        "browser_type",
+        "browser_click",
+        "browser_take_screenshot",
+        "browser_close",
+        "browser_wait_for",
+        "browser_fill_form"
+      ],
+      "disabled": false
+    },
+    "chrome-devtools": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "chrome-devtools-mcp@latest"
+      ],
+      "alwaysAllow": [
+        "navigate_page",
+        "take_snapshot",
+        "take_screenshot",
+        "fill",
+        "fill_form",
+        "wait_for",
+        "performance_start_trace",
+        "performance_stop_trace",
+        "performance_analyze_insight",
+        "evaluate_script",
+        "list_pages",
+        "new_page",
+        "type_text"
+      ],
+      "disabled": true
+    }
+  }
+}

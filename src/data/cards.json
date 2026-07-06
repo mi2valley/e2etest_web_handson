@@ -1,0 +1,26 @@
+[
+  {
+    "id": "card-001",
+    "name": "スタンダードカード",
+    "brand": "VISA",
+    "lastFour": "1234",
+    "limit": 300000,
+    "used": 45800
+  },
+  {
+    "id": "card-002",
+    "name": "ゴールドカード",
+    "brand": "Mastercard",
+    "lastFour": "5678",
+    "limit": 500000,
+    "used": 123400
+  },
+  {
+    "id": "card-003",
+    "name": "プレミアムカード",
+    "brand": "JCB",
+    "lastFour": "9012",
+    "limit": 200000,
+    "used": 12000
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "id": "txn-001",
+    "date": "2026-03-28",
+    "merchant": "フレッシュマート みなと店",
+    "amount": 4320,
+    "category": "スーパー",
+    "cardId": "card-001"
+  },
+  {
+    "id": "txn-002",
+    "date": "2026-03-25",
+    "merchant": "スターオイル セルフ",
+    "amount": 6800,
+    "category": "ガソリン",
+    "cardId": "card-001"
+  },
+  {
+    "id": "txn-003",
+    "date": "2026-03-22",
+    "merchant": "コーヒーハウス",
+    "amount": 680,
+    "category": "カフェ",
+    "cardId": "card-002"
+  },
+  {
+    "id": "txn-004",
+    "date": "2026-03-20",
+    "merchant": "オンラインモール",
+    "amount": 12800,
+    "category": "ネット通販",
+    "cardId": "card-001"
+  },
+  {
+    "id": "txn-005",
+    "date": "2026-03-18",
+    "merchant": "ハンバーガーショップ",
+    "amount": 450,
+    "category": "外食",
+    "cardId": "card-002"
+  },
+  {
+    "id": "txn-006",
+    "date": "2026-03-15",
+    "merchant": "デイリーマート",
+    "amount": 320,
+    "category": "コンビニ",
+    "cardId": "card-003"
+  },
+  {
+    "id": "txn-007",
+    "date": "2026-03-14",
+    "merchant": "ファッションストア",
+    "amount": 5990,
+    "category": "ファッション",
+    "cardId": "card-001"
+  },
+  {
+    "id": "txn-008",
+    "date": "2026-03-12",
+    "merchant": "北部電力",
+    "amount": 8400,
+    "category": "公共料金",
+    "cardId": "card-002"
+  },
+  {
+    "id": "txn-009",
+    "date": "2026-03-10",
+    "merchant": "和食レストラン",
+    "amount": 430,
+    "category": "外食",
+    "cardId": "card-003"
+  },
+  {
+    "id": "txn-010",
+    "date": "2026-03-08",
+    "merchant": "ケアドラッグ",
+    "amount": 1980,
+    "category": "薬局",
+    "cardId": "card-001"
+  },
+  {
+    "id": "txn-011",
+    "date": "2026-03-05",
+    "merchant": "ストリーミングサービス",
+    "amount": 1490,
+    "category": "サブスク",
+    "cardId": "card-002"
+  },
+  {
+    "id": "txn-012",
+    "date": "2026-03-03",
+    "merchant": "テックプラザ",
+    "amount": 32000,
+    "category": "家電",
+    "cardId": "card-001"
+  },
+  {
+    "id": "txn-013",
+    "date": "2026-02-27",
+    "merchant": "フレッシュマート みなと店",
+    "amount": 3850,
+    "category": "スーパー",
+    "cardId": "card-001"
+  },
+  {
+    "id": "txn-014",
+    "date": "2026-02-24",
+    "merchant": "スターオイル セルフ",
+    "amount": 5600,
+    "category": "ガソリン",
+    "cardId": "card-001"
+  },
+  {
+    "id": "txn-015",
+    "date": "2026-02-20",
+    "merchant": "コーヒーハウス",
+    "amount": 720,
+    "category": "カフェ",
+    "cardId": "card-002"
+  },
+  {
+    "id": "txn-016",
+    "date": "2026-02-15",
+    "merchant": "オンラインモール",
+    "amount": 4500,
+    "category": "ネット通販",
+    "cardId": "card-001"
+  },
+  {
+    "id": "txn-017",
+    "date": "2026-02-10",
+    "merchant": "東西ガス",
+    "amount": 6200,
+    "category": "公共料金",
+    "cardId": "card-002"
+  },
+  {
+    "id": "txn-018",
+    "date": "2026-02-05",
+    "merchant": "ファッションストア",
+    "amount": 7980,
+    "category": "ファッション",
+    "cardId": "card-003"
+  }
+]
